@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_hm70sR5pEeuYUoccDg1bpg" label="getest" description="" language="java" technicalLabel="GETEST" creationDate="2020-11-04T12:00:51.000+0530" author="_hm70sh5pEeuYUoccDg1bpg" productVersion="Talend Data Fabric-7.2.1.20190620_1446" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ddasagrandhi/GETEST&quot;,&quot;login&quot;:&quot;ddasagrandhi@talend.com&quot;,&quot;passwd&quot;:&quot;gKQXGkcpRHdjQHuSL4uhLw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_hm70sR5pEeuYUoccDg1bpg" label="getest" description="" language="java" technicalLabel="GETEST" creationDate="2020-11-04T12:00:51.000+0530" author="_hm70sh5pEeuYUoccDg1bpg" productVersion="Talend Data Fabric-7.2.1.20190620_1446" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ddasagrandhi/GETEST&quot;,&quot;login&quot;:&quot;ddasagrandhi@talend.com&quot;,&quot;passwd&quot;:&quot;gKQXGkcpRHdjQHuSL4uhLw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_h2PcAB5pEeuYUoccDg1bpg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_hm70sh5pEeuYUoccDg1bpg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_nOlZsB5pEeuYUoccDg1bpg" login="dev1@company.com" firstName="dev1" lastName="dev1" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
